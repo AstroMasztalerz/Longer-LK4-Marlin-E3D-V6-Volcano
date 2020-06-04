@@ -4,7 +4,7 @@ This is a port of Marlin for Longer Lk4 printers based on work done at https://g
 
 Instructions at bottom of readme.
 
-This port is suited for use with my E3D V6 Volcano hotend mount. It natively supports BLTouch autolevelling, E3D V6 Volcano hotend with a 100K thermistor. The port has been configured to work with a 5V BLtouch, and t he print head of my own design (Print head files available at link):
+This port is suited for use with my E3D V6 Volcano hotend mount. It natively supports BLTouch autolevelling, E3D V6 Volcano hotend with a 100K thermistor. The port has been configured to work with a 5V BLtouch, and t he print head of my own design (Print head files available at link): https://www.thingiverse.com/thing:4419481
 
 USE THIS AT YOUR SOLE RESPONSIBLITY. THIS PORT HAS NOT BEEN TESTED FOR STABILITY. I AM NOT RESPONSIBLE FOR ANY POSSIBLE DAMAGE DONE TO YOUR PRINTER DUE TO IMPROPER, OR PROPER USE OF MARLIN OR THIS PORT OF MARLIN SPECIFICALLY. I DO NOT CARRY OUT ANY CUSTOMER SERVICE.
 
